@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://[your-username].github.io/[your-repo-name]/sitemap.xml
+Sitemap: https://[kate963].github.io/[Mechanical-Keyboard-SEO-Project]/sitemap.xml
