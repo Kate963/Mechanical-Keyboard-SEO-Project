@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Custom Mechanical Keyboards | Premium Builds & Parts</title>
+    <meta name="description" content="Discover the world of custom mechanical keyboards. From hot-swappable PCBs to premium tactile switches, build your perfect typing experience today.">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="blog.html">Blog</a></li>
+                <li><a href="contact.html">Contact</a></li>
+                <li><a href="PPC.html">PPC Campaign</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h1>Master Your Typing with Custom Mechanical Keyboards</h1>
+        <section>
+            <h2>The Art of the Perfect Keystroke</h2>
+            <p>Welcome to the ultimate destination for <strong>custom mechanical keyboards</strong>. Unlike standard membrane boards, a mechanical keyboard offers a tactile and auditory experience tailored specifically to your needs. Whether you are a programmer seeking ergonomic comfort or a gamer requiring rapid-fire precision, the right build makes all the difference.</p>
+            
+            <p>Our philosophy focuses on three pillars: acoustics, feel, and aesthetics. We specialize in high-hydration-style "spongy" gasket mounts for a softer landing, or stiff integrated plates for those who prefer a sharp, crisp response. Exploring different materials like PBT and ABS keycaps allows you to customize the sound profile—ranging from a deep "thock" to a high-pitched "clack."</p>
+
+            <p>Ready to start? Check out our <a href="services.html">assembly services</a> or learn more about switch lubing on our <a href="blog.html">blog</a>. For deep technical specifications on switch manufacturing, visit the <a href="https://www.cherrymx.de/en" target="_blank">Cherry MX Authority</a>.</p>
+            
+            <p>Customization goes beyond just looks. By choosing specific spring weights and stem materials, you can eliminate finger fatigue during long coding sessions. We provide the community with the highest quality components, ensuring that every board we touch becomes a lifelong tool for productivity.</p>
+        </section>
+    </main>
+    
+    <footer>
+        <p>&copy; 2026 Keyboard Enthusiast Hub</p>
+    </footer>
+</body>
+</html>
