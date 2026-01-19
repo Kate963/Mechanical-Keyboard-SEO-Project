@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Custom Assembly & Lubing Services | Mechanical Keyboard Hub</title>
+    <meta name="description" content="Professional mechanical keyboard assembly, switch lubing, and stabilizer tuning services to improve your typing sound and feel.">
+</head>
+<body>
+
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="blog.html">Blog</a></li>
+                <li><a href="contact.html">Contact</a></li>
+                <li><a href="PPC.html">PPC Campaign</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h1>Professional Custom Keyboard Services</h1>
+        
+        <section>
+            <h2>Switch Lubing and Tuning</h2>
+            <p>
+                One of the most impactful upgrades for any <strong>custom mechanical keyboard</strong> is switch lubing. 
+                Many switches come from the factory with a "scratchy" feel or a pinging noise from the internal spring. 
+                Our service involves carefully opening each individual switch and applying high-quality lubricants like 
+                Krytox 205g0 to the stem and housing.
+            </p>
+            
+            <p>
+                This process significantly reduces friction, resulting in a smoother keystroke and a much deeper, 
+                cleaner sound profile. We also offer "filming" for switches with loose housings, which improves 
+                stability and further refines the acoustic experience. If you are looking for that specific 
+                "thocky" sound, this service is essential.
+            </p>
+        </section>
+
+        <section>
+            <h2>Full Assembly and Soldering</h2>
+            <p>
+                Whether you have a modern hot-swap PCB or a vintage through-hole kit that requires precise soldering, 
+                we provide full assembly services. We handle everything from installing the stabilizers to 
+                ensuring the plate is perfectly aligned. Every build undergoes a rigorous key-tester check 
+                to ensure 100% functionality before it is shipped back to you.
+            </p>
+
+            <p>
+                Stabilizer tuning is included with every full build. We clip, lube, and balance the wires 
+                to ensure your spacebar and shift keys don't rattle. For those interested in the technical 
+                details of different plate materials like FR4, Carbon Fiber, or Brass, you can find 
+                engineering comparisons at 
+                <a href="https://en.wikipedia.org/wiki/Mechanical_keyboard" target="_blank">Wikipedia's Keyboard Entry</a>.
+            </p>
+
+            <p>
+                Ready to upgrade your desk setup? <a href="contact.html">Contact us today</a> for a custom quote 
+                based on your specific keyboard layout and parts list.
+            </p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Mechanical Keyboard Hub</p>
+    </footer>
+
+</body>
+</html>
