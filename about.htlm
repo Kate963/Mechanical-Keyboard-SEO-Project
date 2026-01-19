@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us | Mechanical Keyboard Enthusiasts</title>
+    <meta name="description" content="Learn about our passion for mechanical keyboards and how we help enthusiasts find the perfect switch, plate, and keycap combination.">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="blog.html">Blog</a></li>
+                <li><a href="contact.html">Contact</a></li>
+                <li><a href="PPC.html">PPC Campaign</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h1>Our Passion for Typing Excellence</h1>
+        <section>
+            <h2>Solving the "Mushy" Keyboard Problem</h2>
+            <p>Mechanical Keyboard Hub was founded by a group of software developers who were tired of the "mushy" feel of standard membrane keyboards. We realized that the primary problem many professionals face is hand fatigue and a lack of tactile feedback during long hours of work.</p>
+            
+            <p>Our mission is to help you build a <strong>custom mechanical keyboard</strong> that matches your specific typing style. We believe a keyboard shouldn't just be a tool; it should be an extension of your hands. From selecting the right spring weight to choosing between linear and tactile switches, we guide you through every step of the journey.</p>
+            
+            <p>Want to see what we can do for you? Check out our <a href="services.html">custom services</a> or read our latest guides on the <a href="blog.html">blog</a>.</p>
+        </section>
+    </main>
+</body>
+</html>
