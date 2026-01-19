@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us | Get Your Custom Keyboard Quote</title>
+    <meta name="description" content="Ready for a custom build? Contact Mechanical Keyboard Hub for assembly quotes, switch lubing inquiries, and modding advice.">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="blog.html">Blog</a></li>
+                <li><a href="contact.html">Contact</a></li>
+                <li><a href="PPC.html">PPC Campaign</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h1>Get in Touch</h1>
+        <section>
+            <h2>Start Your Custom Build Journey</h2>
+            <p>Have a question about a specific switch? Or are you ready to commission a full high-end keyboard build? Fill out the form below (simulated) or reach out via email.</p>
+            
+            <form action="#" method="post" style="max-width: 400px; display: flex; flex-direction: column; gap: 10px;">
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name" required>
+                
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
+                
+                <label for="message">Your Request (e.g., Switch Lubing):</label>
+                <textarea id="message" name="message" rows="4" required></textarea>
+                
+                <button type="submit" style="background-color: #333; color: white; padding: 10px; cursor: pointer;">Send Inquiry</button>
+            </form>
+
+            <p>For more information on the history of typing technology, you can visit the <a href="https://www.smithsonianmag.com/tag/typewriters/" target="_blank">Smithsonian Institution</a>.</p>
+        </section>
+    </main>
+</body>
+</html>
