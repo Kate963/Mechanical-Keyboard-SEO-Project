@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Custom Build Services | Mechanical Keyboard Assembly</title>
+    <meta name="description" content="Professional mechanical keyboard assembly, switch lubing, and stabilizer tuning services.">
+</head>
+<body>
+    <header>
+        <nav></nav>
+    </header>
+    <main>
+        <h1>Our Custom Assembly Services</h1>
+        <section>
+            <h2>Bespoke Keyboard Builds</h2>
+            <p>Don't have the time to solder? Our professional assembly service handles everything from basic hotswap assembly to complex through-hole soldering. We ensure every <strong>custom mechanical keyboard</strong> leaves our studio in peak condition, tested for key-rollover and latency.</p>
+            
+            <p>Our most popular service is the "Full Tune-Up," which includes switch lubing with Krytox 205g0 and stabilizer clipping. This process removes the "scratchy" feel from stock switches and eliminates the annoying rattle often found in mass-produced boards. We take pride in our attention to detail, ensuring that every spacebar is perfectly balanced.</p>
+            
+            <p>If you are looking for a specific sound profile, we offer ultrasonic cleaning for vintage switches. This service is essential for restorers who want that classic feel without decades of dust. Learn more about sound dampening materials at <a href="https://keyboard.university/" target="_blank">Keyboard University</a>.</p>
+            
+            <p>Questions about a commission? <a href="contact.html">Contact us today</a> for a quote on your dream build. We support all layouts including 60%, 65%, TKL, and Full-size boards.</p>
+        </section>
+    </main>
+</body>
+</html>
